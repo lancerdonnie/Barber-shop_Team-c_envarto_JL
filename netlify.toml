@@ -1,4 +1,4 @@
 [[redirects]]
   from = "/*"
-  to = "lancer/index.html"
+  to = "lancer_v2/index.html"
   status = 200
