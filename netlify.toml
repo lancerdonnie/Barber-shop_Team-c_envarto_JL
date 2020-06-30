@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "lancer/index.html"
+  status = 200
