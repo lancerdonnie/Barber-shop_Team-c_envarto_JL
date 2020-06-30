@@ -1,2 +1,5 @@
-[build]
-publish = "lancer_v2/"
+[[redirects]]
+  from = "/"
+  to = "/lancer_v2"
+  status = 200
+  force = false
